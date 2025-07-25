@@ -1,4 +1,4 @@
-# Python & PyTorch Deep Learning Projects
+# Python & PyTorch Projects
 
 This repository contains several deep learning projects implemented using Python and PyTorch, demonstrating proficiency in foundational tools and frameworks for neural network development, training pipelines, and data augmentation techniques.
 
